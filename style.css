@@ -333,7 +333,7 @@ height: 380%;
 }
 .home .home-content a{
     display: inline-block;
-    background: rgb(189, 7, 19);
+    background: rgb(0, 0, 0);
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
