@@ -299,7 +299,7 @@ height: 380%;
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("images/wal4.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -513,7 +513,7 @@ height: 380%;
     width: 80%;
 }
 .skills-content .right .php::before{
-    width: 80%;
+    width: 50%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
